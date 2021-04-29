@@ -32,7 +32,7 @@ The following was completed for the application:
 
 The following image shows the web application's appearance and functionality:
 
-![The CSS Snippet Cheatsheet includes a header; cards with headers, content, and code; and a footer at the bottom of the page.](https://github.com/merewall/Wk2-MiniProject/blob/main/assets/CSS-Snippet-Cheatsheet-screenshot.PNG)    
+![The CSS Snippet Cheatsheet includes a header; cards with headers, content, and code; and a footer at the bottom of the page.](https://github.com/merewall/Wk2-MiniProject/blob/main/Assets/CSS-Snippet-Cheatsheet-screenshot.PNG)    
 
 ## Deployed Application Link
 
